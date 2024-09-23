@@ -11,6 +11,6 @@ package com.franksu.springbootrabbitmq.juc;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("Starting");
-        System.out.println("第一次错误提交revert");
+        System.out.println("错误代码提交");
     }
 }
